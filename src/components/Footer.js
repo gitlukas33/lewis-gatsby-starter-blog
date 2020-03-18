@@ -26,13 +26,13 @@ export const Footer = () => {
       >
         Twitter
       </ButtonLink>
-      <ButtonLink
+      {/* <ButtonLink
         href="https://github.com/lewislbr/lewis-gatsby-starter-blog"
         target="_blank"
         rel="noopener noreferrer"
       >
         Github
-      </ButtonLink>
+      </ButtonLink> */}
     </Container>
   );
 };

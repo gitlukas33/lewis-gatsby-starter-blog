@@ -17,7 +17,7 @@ const About = ({ data }) => {
       <SEO title="About" />
       <HeaderBack />
       <Layout>
-        <HeadingXL>About</HeadingXL>
+        <HeadingXL>O Łukaszu</HeadingXL>
         <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
         <TextBody>
           Building mr concerns servants in he outlived am breeding. He so lain
@@ -34,7 +34,7 @@ const About = ({ data }) => {
           estimable as. Nay any article enabled musical shyness yet sixteen yet
           blushes. Entire its the did figure wonder off.
         </TextBody>
-        <Button href="mailto:your&#64;email.com">Get in touch</Button>
+        <Button href="mailto:your&#64;email.com">Możesz do mnie napisać.</Button>
       </Layout>
     </>
   );
