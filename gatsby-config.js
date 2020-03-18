@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Lewis Gatsby Starter Blog`,
-    description: `A custom Gatsby starter template to start a blog or personal website.`,
+    title: `Łukasz w IT`,
+    description: `O Łukaszu, który zaczął pisać kod.`,
     siteUrl: `https://lewis-gatsby-starter-blog.netlify.com`,
   },
   plugins: [

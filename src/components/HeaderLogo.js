@@ -21,9 +21,9 @@ const Logo = styled.p`
 export const HeaderLogo = () => {
   return (
     <HeaderWrapper>
-      <Logo>LGSB</Logo>
+      <Logo>ŁWIT</Logo>
       <Link to="/about">
-        <p>About</p>
+        <p>O Łukaszu</p>
       </Link>
     </HeaderWrapper>
   );
