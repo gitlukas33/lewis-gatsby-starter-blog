@@ -14,7 +14,7 @@ import {
 const About = ({ data }) => {
   return (
     <>
-      <SEO title="About" />
+      <SEO title="O Łukaszu" />
       <HeaderBack />
       <Layout>
         <HeadingXL>O Łukaszu</HeadingXL>
@@ -34,7 +34,7 @@ const About = ({ data }) => {
           estimable as. Nay any article enabled musical shyness yet sixteen yet
           blushes. Entire its the did figure wonder off.
         </TextBody>
-        <Button href="mailto:info&#64;lukaszsawicki.pl">Możesz do mnie napisać.</Button>
+        <Button href="mailto:lukasz&#64;lukaszsawicki.pl">Możesz do mnie napisać.</Button>
       </Layout>
     </>
   );
