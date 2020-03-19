@@ -34,7 +34,7 @@ const About = ({ data }) => {
           estimable as. Nay any article enabled musical shyness yet sixteen yet
           blushes. Entire its the did figure wonder off.
         </TextBody>
-        <Button href="mailto:your&#64;email.com">Możesz do mnie napisać.</Button>
+        <Button href="mailto:info&#64;lukaszsawicki.pl">Możesz do mnie napisać.</Button>
       </Layout>
     </>
   );

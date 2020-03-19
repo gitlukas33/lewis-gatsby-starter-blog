@@ -22,15 +22,15 @@ const NotFoundPage = () => {
       <SEO title="404: Not found" />
       <Layout>
         <Wrapper>
-          <HeadingXL>NOT FOUND</HeadingXL>
+          <HeadingXL>Takiej strony nie ma :(.</HeadingXL>
           <TextBody style={{ textAlign: 'center' }}>
-            This page doesn&#39;t exist{' '}
+          Takiej strony nie ma...{' '}
             <span role="img" aria-label="duh">
               😓
             </span>
           </TextBody>
           <Link to="/">
-            <ButtonCentered>Go home</ButtonCentered>
+            <ButtonCentered>Wracaj na główną</ButtonCentered>
           </Link>
         </Wrapper>
       </Layout>

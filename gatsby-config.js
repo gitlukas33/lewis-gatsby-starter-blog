@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Łukasz w IT`,
     description: `O Łukaszu, który zaczął pisać kod.`,
-    siteUrl: `https://lewis-gatsby-starter-blog.netlify.com`,
+    siteUrl: `https://lukaszwit.netlify.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
