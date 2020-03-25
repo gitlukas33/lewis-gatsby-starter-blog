@@ -1,6 +1,6 @@
 ---
 title: 'Jak zmienić branżę na IT?'
-date: '2020-03-19'
+date: '2020-03-25'
 ---
 
 ![photo](post1photo1.jpg)
