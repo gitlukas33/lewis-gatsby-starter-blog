@@ -20,7 +20,7 @@ const About = ({ data }) => {
         <HeadingXL>O Łukaszu</HeadingXL>
         <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
         <TextBody>
-            Zawód wytuczony mam taki, że piszę od lat. No ale nie kod. A podobno jak się umie pisać, to i kod się napisze.
+            Zawód wyuczony mam taki, że piszę od lat. No ale nie kod. A podobno jak się umie pisać, to i kod się napisze.
             Chcesz zobaczyć, jak blisko czterdziestoletni facet poznaje świat programowania? Zapraszam - może i Ty 
             zaczniesz kodować. Albo przynajmniej pośmiejesz się ze mnie :).
           <br />
