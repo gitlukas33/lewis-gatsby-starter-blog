@@ -25,7 +25,8 @@ const About = ({ data }) => {
             zaczniesz kodować. Albo przynajmniej pośmiejesz się ze mnie :).
           <br />
           <br />
-          
+          PS Layout tego bloga jest maksymalnie minimalny. W miarę nauki kodowania będę go prawdopodobnie rozbudowywał. Ale z drugiej strony - 
+          bardzo podoba mi się taka "rdzenna" forma bloga - miejsca, w którym są teksty - bez zbędnych wodotrysków. Roots blogging! 
         </TextBody>
         <Button href="mailto:lukasz&#64;lukaszsawicki.pl">Możesz do mnie napisać.</Button>
       </Layout>
