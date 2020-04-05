@@ -5,7 +5,7 @@ date: '2020-04-05'
 
 ![photo](post3photo1.jpg)
 
-Pora solidnie przysiąść do roboty. Szukamy źródła wiedzy - a tych internecie jest mnóstwo. I, tu zaskoczenie, nie z każdego nauczysz się programować!
+Pora solidnie przysiąść do roboty. Szukamy źródła wiedzy - a tych w internecie jest mnóstwo. I, tu zaskoczenie, nie z każdego nauczysz się programować!
 
 ## I ty chcesz do IT?!!
 
